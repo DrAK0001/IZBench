@@ -1,4 +1,3 @@
-
 #!/usr/bin/env python3
 """
 izbench.py - simple portable benchmark:
